@@ -1,0 +1,15 @@
+# 1. Данные
+*.csv
+*.xlsx
+*.pkl
+*.h5
+dataset.csv
+stops.csv
+
+# 2. Системные файлы
+.DS_Store
+.ipynb_checkpoints/
+
+# 3. Пароли и настройки
+.env
+config_local.py
