@@ -17,8 +17,3 @@
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Jupyter Notebook
-
-## Как запустить
-1. Установить библиотеки: `pip install pandas numpy matplotlib seaborn`
-2. Запустить Jupyter: `jupyter notebook`
-3. Открыть `IIoT-data-analysis.ipynb`
